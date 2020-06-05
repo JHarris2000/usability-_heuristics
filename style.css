@@ -20,7 +20,7 @@ h2{
 .headings{
     font-size: 40px;
     padding-top: 60px;
-    border-bottom: 7px solid #FF0000;
+    border: 7px solid #FF0000;
     margin-right: 6cm ;
     margin-left: 6cm;
     text-align: center;
