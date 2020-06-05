@@ -10,6 +10,9 @@ h1{
 
 h2{
     color: #FF0000;
+    margin-right: 6cm ;
+    margin-left: 6cm;
+    text-align: center;
 }
 
 .headings{}
@@ -23,8 +26,8 @@ h2{
 
 .paragraphs{
 color: white;
-margin-right: 3.17cm ;
-margin-left: 3.17cm;
+margin-right: 6cm ;
+margin-left: 6cm;
 text-align: center;
 
 }
