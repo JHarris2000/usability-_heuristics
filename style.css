@@ -5,7 +5,13 @@ body{
 }
 
 h1{
+    font-size: 24em;
     color: #FF0000;
+    border-top: 15px;
+    border-bottom: 15px;
+    border-color: white;
+    font-style: italic;
+    padding-bottom: 10px;
 }
 
 h2{
@@ -14,9 +20,12 @@ h2{
 }
 
 .headings{
+    border-bottom: 7px;
+    border-color: #FF0000;
     margin-right: 6cm ;
     margin-left: 6cm;
     text-align: center;
+    padding-bottom: 5px;
 }
 
 .pictures{
@@ -28,8 +37,9 @@ h2{
 
 .paragraphs{
 color: white;
-margin-right: 6cm ;
-margin-left: 6cm;
+margin-right: 10cm ;
+margin-left: 10cm;
 text-align: center;
+padding-bottom: 5px;
 
 }
