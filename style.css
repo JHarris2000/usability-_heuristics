@@ -1,12 +1,15 @@
 body{
-    font-family: Arial;
-    text-align: center;
-    
+    background: #282828;
+    font-family: Arial;    
 }
 
-h1{}
+h1{
+    color: #FF0000;
+}
 
-h2{}
+h2{
+    color: #FF0000;
+}
 
 .headings{}
 
@@ -14,4 +17,11 @@ h2{}
     display: block;
     margin-right: auto;
     margin-left: auto;
+
+}
+
+.paragraphs{
+margin: auto;
+text-align: center;
+
 }
