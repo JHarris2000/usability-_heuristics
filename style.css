@@ -19,7 +19,6 @@ h2{
 
 .headings{
     font-size: 40px;
-    padding-top: 60px;
     border: 7px solid #FF0000;
     margin-right: 6cm ;
     margin-left: 6cm;
@@ -28,6 +27,7 @@ h2{
 }
 
 .pictures{
+    padding-bottom: 60px;
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -42,3 +42,13 @@ text-align: center;
 padding-bottom: 30px;
 
 }
+
+#visual1{padding-bottom: 15px;}
+
+#control1{padding-bottom: 15px;}
+
+#consistency1{padding-bottom: 15px;}
+
+#design1{padding-bottom: 15px;}
+
+#design2{padding-bottom: 15px;}
